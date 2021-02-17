@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 
 
 -->
+
+<!-- my visitors -->
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
+
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula )
