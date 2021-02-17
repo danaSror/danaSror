@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/dana-sror-a310b71b1"
-              ><i class="fab fa-linkedin-in"></i
-            ></a>
+Follow me on [![alt text][1.1]][1]
