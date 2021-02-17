@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-512.png" />](https://github.com/SISE-Web-Development-Environments/assignment-3-2-yarin-dana)
+[<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-512.png" high=25% />](https://www.facebook.com/dana.yevdaiev)
