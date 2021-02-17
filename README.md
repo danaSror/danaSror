@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-
-
-
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
 
