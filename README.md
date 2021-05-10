@@ -34,6 +34,6 @@ Check out my repos ⬇️
 
 ## :star: My gitHub state :star:: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) 
-<br><br><a><img align="left" width="150" height="300" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
+<br><br><a><img align="left" width="150" height="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
