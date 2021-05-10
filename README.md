@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 
 -->
-<a><img align="left" width="100" height="100" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></a>
+<a><img align="left" width="100" height="80" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></a>
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
 
 # :open_hands: Connect me
 [<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-512.png"  width=40px height=40px />](https://www.facebook.com/dana.yevdaiev)    [<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"  width=40px height=40px />](https://www.linkedin.com/in/dana-sror-a310b71b1)    [<img src="https://cdn1.iconfinder.com/data/icons/social-network-15/512/mail-512.png"  width=40px height=40px />](mailto:danayevd@post.bgu.ac.il)
-
+<br>
 ## :star: My gitHub state :star:: 
  <!-- my visitors -->
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)<br>
