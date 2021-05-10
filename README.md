@@ -32,7 +32,7 @@ Check out my repos ⬇️
 </p>
 
 
-## :star: My gitHub state :star:: <a><img align="left" width="150" height="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## :star: My gitHub state :star:: <a><img align="left" width="150" height="250" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- and bla bla again
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
