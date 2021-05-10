@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 <p align="center">
 Check out my repos ⬇️
 </p>
+
+
+## :star: My gitHub state :star:: <a><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- bla bla
+- and bla bla again
