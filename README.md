@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 ## :star: My gitHub state :star:: 
  <!-- my visitors -->
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <a><img align="left" width="120" height="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
+<p align="center">
+<a href="https://github.com/danaSror">
+ <img  width="90" height="180em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danaSror&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danaSror&layout=compact&langs_count=8&theme=dracula"/>
+ <img  width="90" height="180em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
+</a>
+</p>
 
 
 <p align="center">
@@ -38,11 +43,3 @@ Check out my repos ⬇️
 
 
 
-<p align="center">
-<a href="https://github.com/AVS1508">
- <img  width="90" height="180em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danaSror&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danaSror&layout=compact&langs_count=8&theme=dracula"/>
- <img  width="90" height="180em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
-</a>
-</p>
