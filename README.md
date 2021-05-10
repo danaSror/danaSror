@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif"  width=40px height=40px /> Hi there 👋
+### Hi there 👋
 
 
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 
 -->
+<a><img align="left" width="70" height="70" src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif"></a>
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
 
