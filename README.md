@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
 
 
-<p align="center" width="150" height="150">
+<p align="center" >
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="center">
