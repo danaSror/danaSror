@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
 Check out my repos ⬇️
-
+</p>
