@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 -->
-<a><img align="left" width="70" height="70" src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif"></a>
+<a><img align="left" width="70" height="50" src="https://media.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif"></a>
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## :star: My gitHub state :star:: 
  <!-- my visitors -->
-![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaSror&show_icons=true&theme=dracula ) 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <a><img align="left" width="120" height="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
