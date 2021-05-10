@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)<br>
 <p align="center">
  <a href="https://github.com/danaSror">
-   <img  src="https://komarev.com/ghpvc/?username=danaSror&color=ff69b4">
+   <img  src="https://komarev.com/ghpvc/?username=danaSror&color=ff69b4"><br>
   </a>
 <a href="https://github.com/danaSror">
  <img  width="120em" height="180em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
