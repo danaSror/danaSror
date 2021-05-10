@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danaSror&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <a><img align="left" width="120" height="150" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif"></a>
 
-
+ <!-- my visitors -->
+![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
 
 
 
 <p align="center">
-  <!-- my visitors -->
-![](https://komarev.com/ghpvc/?username=danaSror&color=ff69b4)
+
   <br>
 Check out my repos ⬇️
 </p>
