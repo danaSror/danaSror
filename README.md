@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   </a>
 <a href="https://github.com/danaSror">
  <img  width="80em" height="130em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danaSror&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danaSror&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danaSror&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danaSror&layout=compact&langs_count=8&theme=dracula"/>
 <img  width="80em" height="130em" src="https://media.giphy.com/media/11lxCeKo6cHkJy/giphy.gif">
 </a>
 </p>
