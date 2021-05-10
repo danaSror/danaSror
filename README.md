@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 -->
-<a><img align="left" width="70" height="40" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></a>
+<a><img align="left" width="100" height="100" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></a>
 - 🎓 I’m currently a B.Sc Software and Information Systems Engineering student at the Ben-Gurion University
 - :computer: I’m looking for a software developer position
 
