@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 # :open_hands: Connect me
 [<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"  width=40px height=40px />](https://www.linkedin.com/in/dana-sror-a310b71b1)
-[<img src="https://cdn1.iconfinder.com/data/icons/social-network-15/512/mail-512.png"  width=40px height=40px />]
+[<img src="https://cdn1.iconfinder.com/data/icons/social-network-15/512/mail-512.png"  width=40px height=40px />](mailto:dana.sror123@gmail.com)
+<br>
 
 
 ## :star: My gitHub state :star:: 
