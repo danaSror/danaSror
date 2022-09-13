@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 <a><img align="left" width="100" height="80" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"></a><br>
-- My name is Dana Sror and I'm a Software developer
+My name is Dana Sror and I'm a Software developer
 
 # :open_hands: Connect me
 [<img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png"  width=40px height=40px />](https://www.linkedin.com/in/dana-sror-a310b71b1)
